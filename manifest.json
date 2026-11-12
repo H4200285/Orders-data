@@ -1,0 +1,18 @@
+{
+  "name": "Order Booking",
+  "short_name": "Orders",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F4F9",
+  "theme_color": "#0B4F9E",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='110' fill='%230B4F9E'/%3E%3Cpath d='M150 190h230l-22 150H172z' fill='none' stroke='white' stroke-width='28' stroke-linejoin='round'/%3E%3Ccircle cx='200' cy='385' r='22' fill='white'/%3E%3Ccircle cx='335' cy='385' r='22' fill='white'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
